@@ -28,6 +28,6 @@ npm run dev
 ## 🌐 API Endpoints
 
 - `GET /books` – Get all books
-- `POST /books` – Create a new book
-- `PUT /books/:id` – Update a book
+- `POST /books` – Add a new book
+- `PUT /books/:id` – Update a book's details
 - `DELETE /books/:id` – Delete a book
