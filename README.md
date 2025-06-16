@@ -2,7 +2,7 @@
 
 A simple RESTful API for managing books using Node.js, Express, and MongoDB.
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone <repo-url>
@@ -10,7 +10,7 @@ cd bookstore-api-mongodb
 npm install
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 Create a `.env` file based on the `.env.example`:
 
@@ -19,13 +19,13 @@ MONGO_URI=mongodb://localhost:27017/bookstore
 PORT=3000
 ```
 
-## 🚀 Run the API
+##  Run the API
 
 ```bash
 npm run dev
 ```
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 - `GET /books` – Get all books
 - `POST /books` – Add a new book
